@@ -9,4 +9,4 @@
 ## Outputs:
 Public_ip: outputs the public IP of the instance created.
 Private_ip: outputs the private IP of the instance created.
-Instace_id: outputs the Instace ID of the instance created.
+Instance_id: outputs the Instance ID of the instance created.
